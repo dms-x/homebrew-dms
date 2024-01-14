@@ -1,4 +1,4 @@
-class Myprogram < Formula
+class Minho < Formula
   desc "makes icons for terminal"
   homepage "https://github.com/dms-x"
   url "https://github.com/dms-x/homebrew-dms/archive/refs/tags/v1.0.zip"
