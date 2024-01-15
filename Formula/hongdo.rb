@@ -2,7 +2,7 @@ class Hongdo < Formula
    desc "display image on terminal"
    homepage "https://github.com/dms-x"
    url "https://github.com/dms-x/homebrew-dms/releases/download/v1.0/hongdo"
-   sha256 "15038bce7ed8df967a44e2b4ccd8c0f52b61dc48f7e2849db2006ec8c79a8662"
+   sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
    def install
      bin.install "hongdo"
