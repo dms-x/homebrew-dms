@@ -9,6 +9,9 @@
 1. Install 'minho' into your local shell.
 <br><br><code> brew install minho </code>
 
+2. Run the code by typing
+<br><code> minho </code>
+
 
 ### HONGDO (Photo file preview on terminal with ASCii art)
 1. Install 'hongdo' into your local shell.
