@@ -2,7 +2,7 @@
 
 *Currently only available for MacOS* <br>
 
-This project introduces two innovative command-line tools: <code>minho</code> and <code>hongdo</code>. Minho enhances the traditional file listing command ls by integrating emojis, making file navigation both intuitive and visually engaging. On the other hand, hongdo brings a unique twist to file management by allowing users to preview photo files directly in the terminal using **ASCII art**. These tools aim to combine functionality with creativity, offering a fresh and enjoyable experience for MacOS command-line users. Whether for everyday file management or for adding a touch of fun to routine tasks, minho and hongdo are here to transform your terminal experience.
+This project introduces two innovative CLI tools: <code>minho</code> and <code>hongdo</code>. Minho enhances the traditional file listing command ls by integrating emojis, making file navigation both intuitive and visually engaging. On the other hand, hongdo brings a unique twist to file management by allowing users to preview photo files directly in the terminal using **ASCII art**. These tools aim to combine functionality with creativity, offering a fresh and enjoyable experience for MacOS command-line users. Whether for everyday file management or for adding a touch of fun to routine tasks, minho and hongdo are here to transform your terminal experience.
 
 <img src="https://github.com/dms-x/homebrew-dms/blob/main/min.png?raw=true" width="320" height="250"> <img src="https://github.com/dms-x/homebrew-dms/blob/main/snoopy.png?raw=true" width="180" height="250"> <img src="https://github.com/dms-x/homebrew-dms/blob/main/curry.png?raw=true" width="180" height="250">
 
